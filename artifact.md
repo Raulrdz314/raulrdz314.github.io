@@ -4,8 +4,8 @@ This project demonstrates my ability to design and configure a network using Cis
 
 ## Files
 
-- [Download Packet Tracer File](https://github.com/raulrdz314/yourrepo/raw/main/yourfile.pkt)
-- [Download Excel Table](PASTE LINK HERE)
+- [Download Packet Tracer File](https://raw.githubusercontent.com/Raulrdz314/raulrdz314.github.io/main/CYB210_ProjectTwo_Raul_Rodriguez.pkt)
+- [Download Excel Table]([PASTE LINK HERE](https://raw.githubusercontent.com/Raulrdz314/raulrdz314.github.io/main/CYB210_ProjectTwo_Raul_Rodriguez.xlsx)
 
 ## Overview
 The network includes routers, switches, PCs, printers, and servers.
