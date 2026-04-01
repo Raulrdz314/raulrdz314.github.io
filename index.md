@@ -6,6 +6,8 @@ Throughout this program, I have developed a stronger understanding of computer s
 
 Through my coursework, I improved my ability to communicate technical information and use tools like Cisco Packet Tracer and Excel. I enhanced a network design project by improving the layout, correcting IP addressing, and organizing the data into a structured format.
 
+Throughout the program, I also developed better problem-solving skills and learned how to approach issues step by step. Whether it was troubleshooting a network or improving a project, I learned how to break problems down and find practical solutions. These skills are important not only in computer science but also in real-world situations, especially in law enforcement where attention to detail and problem-solving are critical.
+
 This ePortfolio shows my growth in software design, algorithms, and databases.
 
 ---
